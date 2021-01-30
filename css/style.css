@@ -6,7 +6,7 @@ body {
 }
 
 .brand {
-	padding-left: 2%
+	padding-left: 2%;
 }
 
 .overlay {
@@ -28,6 +28,10 @@ body {
 	height: 47px;
 	background-size: cover;
 	background-repeat: no-repeat;
+}
+
+.clickonproject {
+	padding-top: 1%;
 }
 
 .slides-navigation a.prev {
